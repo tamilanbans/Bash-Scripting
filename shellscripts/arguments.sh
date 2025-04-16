@@ -1,10 +1,10 @@
 #!/bin/sh
 
-Name=Thangadurai
-Street=#53
-City=Bangalore
-State=Karnataka
-zip=560043
+Name=
+Street=
+City=Warsaw
+Country=Poland 
+zip=
 
 
 #echo "${Name}"
